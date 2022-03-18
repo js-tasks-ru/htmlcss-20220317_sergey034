@@ -1,0 +1,38 @@
+.header {
+    background-color: red;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+
+}
+
+nav {
+    background-color: orange;
+    text-align: center;
+    height: 60px;
+}
+
+a {
+    color: white;
+}
+
+main {
+    background-color: green;
+}
+
+article {
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+footer {
+    background-color:purple;
+    color: white;
+    text-align: center;
+    height: 50px;
+    font-size: large;
+} 

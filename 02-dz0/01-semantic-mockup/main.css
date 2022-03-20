@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header {
+    background-color: red;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+
+}
+
+nav {
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    color: white;
+}
+
+main {
+    border: 10px solid green;
+    background-color: green;
+}
+
+article {
+    border: 2px solid green;
+    color: white;
+    padding: 20px;
+    background-color: blue;
+}
+
+h2 {
+    font-weight: bolder;
+    
+}
+
+footer {
+    background-color:purple;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.list {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.article-1st {
+    margin-bottom: 10px;
+}
